@@ -110,9 +110,9 @@ Ao reabrir o terminal Arch, o PowerLevel10k fará uma configuração interativa.
 ```
 (2) Classic
 (1) Unicode
-(3) Dark
-(n) No
-(2) Vertical
+(2) Light
+(2) 24-hour format
+(3) Slanted
 (3) Sharp
 (5) Round
 (2) Two lines
